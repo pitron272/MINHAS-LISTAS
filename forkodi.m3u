@@ -30,13 +30,14 @@ http://148.113.160.49:14141
 #EXTINF:-1, tvg-id="" tvg-name="TNT 720p" [Play Geh TV] tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT 720p
 http://s2.micineovs.com/TNT/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
 #EXTINF:-1, tvg-id="" tvg-name="TNT 720p² [OFF]" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT 720p²
-https://d1muf25xa03so8hp06.s27-usa-cloudfront-net.online/token/585de97f7345d0bf528dca990ba88b4a/tnt.m3u8
+https://d1muf25xa03so8hp11.s27-usa-cloudfront-net.online/token/1daa442ad4cf23ea17b429378180503d/tnt.m3u8
 #EXTINF:-1, tvg-id="" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT FHD
 http://novo.livetv2021.online:8080/W4Tq9BRqjx/fKvgRJKB8v/297
 #EXTINF:-1, tvg-id="" tvg-name="SPACE SD" [Play Geh TV] tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES",SPACE SD
 http://148.113.160.49:14170
 #EXTINF:-1, tvg-id="" tvg-name="SPACE HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES",SPACE HD¹
 http://serv99.xyz:8880/oliveiracwb/g5a7s31u/1780
+
 
 
 
