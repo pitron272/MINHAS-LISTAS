@@ -1,41 +1,41 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="" tvg-name="+SBT Novelas" tvg-logo="https://thumbs4.imagebam.com/c8/9d/19/ME1B7K97_t.png" group-title="ABERTOS",+SBT Novelas
+#EXTINF:-1, tvg-id="+SBT Novelas" tvg-logo="https://thumbs4.imagebam.com/c8/9d/19/ME1B7K97_t.png" group-title="ABERTOS",+Novelas
 http://181.214.221.73:80/47125065/12264670/127320.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="+SBT Raiz" tvg-logo="https://images4.imagebam.com/a2/8c/6c/ME1B7KPV_o.png" group-title="ABERTOS",+SBT Raiz
+#EXTINF:-1, tvg-id="+SBT Raiz" tvg-logo="https://images4.imagebam.com/a2/8c/6c/ME1B7KPV_o.png" group-title="ABERTOS",+Raiz
 http://181.214.221.73:80/47125065/12264670/127323.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT
+#EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT SP
 http://181.214.221.73:80/47125065/12264670/127314.m3u8
-#EXTINF:-1, tvg-id="08" tvg-name="SBT Nova Mutum [Chapolin]" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT Nova Mutum [Chapolin]
+#EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT Nova Mutum [Chapolin]
 https://video09.logicahost.com.br/sbtmutum/sbtmutum/chunklist_w1042837015.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",GLOBO SÃO PAULO
+#EXTINF:-1, tvg-id="Globo SP_local" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",GLOBO SP
 http://181.214.221.73:80/47125065/12264670/153459.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="Record RJ SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record RJ SD
+#EXTINF:-1, tvg-id="Record RJ SD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record RJ SD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Record SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record SP HD
+#EXTINF:-1, tvg-id="Record SP_local" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record SP HD
 http://181.214.221.73:80/47125065/12264670/127589.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="BAND HD" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",Band HD
+#EXTINF:-1, tvg-id="Band SP_local" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",Band SP HD
 http://181.214.221.73:80/47125065/12264670/127454.m3u8
-#EXTINF:-1, tvg-id="03" tvg-name="TV Cultura SD" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="ABERTOS",TV Cultura SD
+#EXTINF:-1, tvg-id="TV Cultura SP_local" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="ABERTOS",TV Cultura SD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-2048x2048.png" group-title="ESPORTES",ESPN 1
+#EXTINF:-1, tvg-id="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-2048x2048.png" group-title="ESPORTES",ESPN 1
 http://46.151.196.223:14432
-#EXTINF:-1, tvg-id="" tvg-name="ESPN 2" tvg-logo="https://i.imgur.com/lMF2raO.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1, tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/lMF2raO.png" group-title="ESPORTES",ESPN 2
 http://46.151.196.223:14438
-#EXTINF:-1, tvg-id="" tvg-name="ESPN 3" tvg-logo="https://i.imgur.com/gYaeIDq.png" group-title="ESPORTES",ESPN 3
+#EXTINF:-1, tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/gYaeIDq.png" group-title="ESPORTES",ESPN 3
 http://46.151.196.223:14444
-#EXTINF:-1, tvg-id="" tvg-name="ESPN 4" tvg-logo="https://i.imgur.com/um0JAiw.png" group-title="ESPORTES",ESPN 4
+#EXTINF:-1, tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/um0JAiw.png" group-title="ESPORTES",ESPN 4
 http://46.151.196.223:14450
-#EXTINF:-1, tvg-id="" tvg-name="TNT SD [OFF]" [Play Geh TV] tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT SD
+#EXTINF:-1, tvg-id="TNT" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT SD
 http://148.113.160.49:14141
-#EXTINF:-1, tvg-id="" tvg-name="TNT 720p" [Play Geh TV] tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT 720p
+#EXTINF:-1, tvg-id="TNT" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT 720p
 http://s2.micineovs.com/TNT/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1, tvg-id="" tvg-name="TNT 720p² [OFF]" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT 720p²
-https://d1muf25xa03so8hp11.s27-usa-cloudfront-net.online/token/1daa442ad4cf23ea17b429378180503d/tnt.m3u8
-#EXTINF:-1, tvg-id="" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT FHD
+#EXTINF:-1, tvg-id="TNT" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT 720p² [OFF]
+https://d1muf25xa03so8hp15.s27-usa-cloudfront-net.online/token/13bc251c26d1d50842418180fa03e76c/tnt.m3u8
+#EXTINF:-1, tvg-id="TNT" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FILMES",TNT FHD
 http://novo.livetv2021.online:8080/W4Tq9BRqjx/fKvgRJKB8v/297
-#EXTINF:-1, tvg-id="" tvg-name="SPACE SD" [Play Geh TV] tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES",SPACE SD
+#EXTINF:-1, tvg-id="SPACE" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES",SPACE SD
 http://148.113.160.49:14170
-#EXTINF:-1, tvg-id="" tvg-name="SPACE HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES",SPACE HD¹
+#EXTINF:-1, tvg-id="SPACE" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FILMES",SPACE HD¹
 http://serv99.xyz:8880/oliveiracwb/g5a7s31u/1780
 
 
