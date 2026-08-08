@@ -16,9 +16,9 @@ https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400
 #EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT SP HD
 https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT RJ HD
-http://hplay.tv:80/tvlitoralrn@hplay/555ss445/7416.m3u8
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/7416
 #EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT RS HD
-http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/91907.m3u8
+http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/91907
 #EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT Brasilia HD
 http://flipex.pro:80/kWgW4mCC/FJ2tk3/52567
 #EXTINF:-1, tvg-id="SBT NEWS HD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/SBT_News_Logo_Nova_6912e22a21.jpg" group-title="ABERTOS",SBT News 720p
@@ -34,7 +34,7 @@ http://46.151.196.223:14993
 #EXTINF:-1, tvg-id="PLAY TV" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/07/PlayTV-logo-pequeno.png" group-title="ABERTOS",Play TV 720p
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 #EXTINF:-1, tvg-id="Globo SP_local" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",Globo SP
-http://hplay.tv:80/tvlitoralrn@hplay/555ss445/7410.m3u8
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/7410
 #EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="http://p6.vc/VCK" group-title="ABERTOS",Globo SP² http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1
 #EXTINF:-1, tvg-id="GLOBO_SÃO_PAULO" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",Globo RJ
 http://novo.livetv2021.online:8080/W4Tq9BRqjx/fKvgRJKB8v/110
@@ -43,17 +43,17 @@ http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 #EXTINF:-1, tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",Rede Amazônica HD
 http://novo.livetv2021.online:8080/W4Tq9BRqjx/fKvgRJKB8v/201
 #EXTINF:-1, tvg-id="RECORD_HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record RJ SD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13
 #EXTINF:-1, tvg-id="RECORD_HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record SP 720p
-http://hplay.tv:80/tvlitoralrn@hplay/555ss445/227.m3u8
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/227
 #EXTINF:-1 tvg-id="Record SP_local" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record SP HD
 http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/12888.m3u8
 #EXTINF:-1 tvg-id="Band SP_local" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",BAND RJ SD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3
 #EXTINF:-1, tvg-id="Band HD" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",Band SP HD
-http://hplay.tv:80/tvlitoralrn@hplay/555ss445/131.m3u8
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/131
 #EXTINF:-1, tvg-id="REDE TV! HD" tvg-logo="http://p6.vc/AGY" group-title="ABERTOS",REDE TV
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16
 #EXTINF:-1, tvg-id="CULTURA HD" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="ABERTOS",TV Cultura SD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1, tvg-id="Rede Brasil HD" tvg-logo="https://rbtv.com.br/upload_arquivos/2020/03/2020030618426001585009374.png" group-title="ABERTOS",Rede Brasil HD
