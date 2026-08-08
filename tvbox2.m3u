@@ -1,4 +1,14 @@
 #EXTM3U
+#EXTINF:-1, tvg-id="Gate" group-title="CAMERAS",Gate
+rtsp://192.168.2.108:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
+#EXTINF:-1, tvg-id="Rail" group-title="CAMERAS",Rail
+rtsp://192.168.2.114:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
+#EXTINF:-1, tvg-id="Entrance" group-title="CAMERAS",Entrance
+rtsp://192.168.2.107:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
+#EXTINF:-1, tvg-id="Backyard" group-title="CAMERAS",Backyard
+rtsp://192.168.2.71:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
+#EXTINF:-1, tvg-id="Warehouse" group-title="CAMERAS",Warehouse
+rtsp://192.168.2.109:554/user=admin_password=tlJwpbo6_channel=0_stream=1&onvif=0.sdp
 #EXTINF:-1, tvg-id="+SBT Novelas" tvg-logo="https://thumbs4.imagebam.com/c8/9d/19/ME1B7K97_t.png" group-title="ABERTOS",+Novelas
 http://172.110.219.252:80/85836530/57158922/127320.m3u8
 #EXTINF:-1, tvg-id="+SBT Show do Milhão" tvg-logo="https://images4.imagebam.com/a2/8c/6c/ME1B7KPV_o.png" group-title="ABERTOS",+Raiz
@@ -8,7 +18,7 @@ https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT RJ HD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/7416.m3u8
 #EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT RS HD
-http://x.cliente.tech:80/EEwQHQ2gf/4kMW7f01234567/52473.m3u8
+http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/91907.m3u8
 #EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT Brasilia HD
 http://flipex.pro:80/kWgW4mCC/FJ2tk3/52567
 #EXTINF:-1, tvg-id="SBT NEWS HD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/SBT_News_Logo_Nova_6912e22a21.jpg" group-title="ABERTOS",SBT News 720p
@@ -37,13 +47,13 @@ http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1, tvg-id="RECORD_HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record SP 720p
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/227.m3u8
 #EXTINF:-1 tvg-id="Record SP_local" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record SP HD
-http://46.151.196.223:14512
+http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/12888.m3u8
 #EXTINF:-1 tvg-id="Band SP_local" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",BAND RJ SD
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3.m3u8
 #EXTINF:-1, tvg-id="Band HD" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",Band SP HD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/131.m3u8
 #EXTINF:-1, tvg-id="REDE TV! HD" tvg-logo="http://p6.vc/AGY" group-title="ABERTOS",REDE TV
-http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16.m3u8
 #EXTINF:-1, tvg-id="CULTURA HD" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="ABERTOS",TV Cultura SD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 #EXTINF:-1, tvg-id="Rede Brasil HD" tvg-logo="https://rbtv.com.br/upload_arquivos/2020/03/2020030618426001585009374.png" group-title="ABERTOS",Rede Brasil HD
@@ -53,17 +63,17 @@ https://tvbrasil-stream.ebc.com.br/index.m3u8
 #EXTINF:-1, tvg-id="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png" group-title="ABERTOS",RIT HD
 https://acesso.ecast.site:3648/live/ritlive.m3u8
 #EXTINF:-1, tvg-id="CNN BRASIL" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-logo.jpg" group-title="ABERTOS",CNN HD
-http://46.151.196.223:14086
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/902.m3u8
 #EXTINF:-1, tvg-id="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-2048x2048.png" group-title="ESPORTES",ESPN 1
-http://46.151.196.223:14495
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/68.m3u8
 #EXTINF:-1, tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/lMF2raO.png" group-title="ESPORTES",ESPN 2
-http://46.151.196.223:14553
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/69.m3u8
 #EXTINF:-1, tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/gYaeIDq.png" group-title="ESPORTES",ESPN 3
-http://46.151.196.223:14442
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/70.m3u8
 #EXTINF:-1, tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/um0JAiw.png" group-title="ESPORTES",ESPN 4
-http://46.151.196.223:14448
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/71.m3u8
 #EXTINF:-1, tvg-id="ESPN 5" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="ESPORTES",ESPN 5
-http://46.151.196.223:14454
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/72.m3u8
 #EXTINF:-1, tvg-id="ESPN 6" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="ESPORTES",ESPN 6
 http://hls1.sua.tv/live/espnextrafhd/s.m3u8
 #EXTINF:-1, tvg-id="CazéTV 1" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="ESPORTES",CazéTV 1
@@ -72,32 +82,22 @@ http://hplay.tv:80/tvlitoralrn@hplay/555ss445/1048147.m3u8
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/1048148.m3u8
 #EXTINF:-1, tvg-id="CazéTV 3" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="ESPORTES",CazéTV 3
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/1048149.m3u8
-#EXTINF:-1, tvg-id="MULTISHOW HD" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="FECHADOS",Multishow HD
+#EXTINF:-1, tvg-id="MULTISHOW HD" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="FECHADOS",Multishow HD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/903.m3u8
-#EXTINF:-1, tvg-id="DISCOVERY HD" tvg-logo="https://i.imgur.com/vJbNyH6.png" group-title="FECHADOS",Discovery HD
-http://172.110.219.252:80/85836530/57158922/125220.m3u8
-#EXTINF:-1, tvg-id="TNT HD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT SD
-http://172.110.219.252:80/145916040/370214961/223584.m3u8
-#EXTINF:-1, tvg-id="TNT HD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT 720p
+#EXTINF:-1, tvg-id="DISCOVERY HD" tvg-name="Discovery HD" tvg-logo="https://i.imgur.com/vJbNyH6.png" group-title="FECHADOS",Discovery HD
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/6618.m3u8
+#EXTINF:-1, tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT SD
+http://hplay.tv:80/tvlitoralrn@hplay/555ss445/180.m3u8
+#EXTINF:-1, tvg-id="TNT HD" tvg-name="TNT 720p" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT 720p
 http://s2.micineovs.com/TNT/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1, tvg-id="TNT HD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT 720p²
+#EXTINF:-1, tvg-id="TNT HD" tvg-name="TNT 720p²" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT 720p²
 http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/594019.m3u8
-#EXTINF:-1, tvg-id="TNT HD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT FHD
+#EXTINF:-1, tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT FHD
 http://novo.livetv2021.online:8080/W4Tq9BRqjx/fKvgRJKB8v/297
-#EXTINF:-1, tvg-id="Space HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FECHADOS",Space HD
+#EXTINF:-1, tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FECHADOS",Space HD
 http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/9101.m3u8
-#EXTINF:-1, tvg-id="Space HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FECHADOS",SPACE HD¹
+#EXTINF:-1, tvg-id="Space HD" tvg-name="SPACE HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FECHADOS",SPACE HD¹
 http://46.151.196.223:14607
-#EXTINF:-1, tvg-id="Gate" group-title="CAMERAS",Gate
-rtsp://192.168.2.108:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
-#EXTINF:-1, tvg-id="Rail" group-title="CAMERAS",Rail
-rtsp://192.168.2.114:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
-#EXTINF:-1, tvg-id="Entrance" group-title="CAMERAS",Entrance
-rtsp://192.168.2.107:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
-#EXTINF:-1, tvg-id="Backyard" group-title="CAMERAS",Backyard
-rtsp://192.168.2.71:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
-#EXTINF:-1, tvg-id="Warehouse" group-title="CAMERAS",Warehouse
-rtsp://192.168.2.109:554/user=admin_password=tlJwpbo6_channel=0_stream=1&onvif=0.sdp
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S01 E01
 http://flipex.pro:80/series/6296926/62956925925/8543.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S01 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S01 E02
@@ -142,3 +142,166 @@ http://flipex.pro:80/series/6296926/62956925925/8562.mp4
 http://flipex.pro:80/series/6296926/62956925925/8563.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S01 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S01 E22
 http://flipex.pro:80/series/6296926/62956925925/8564.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E01
+http://flipex.pro:80/series/6296926/62956925925/8565.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E02
+http://flipex.pro:80/series/6296926/62956925925/8566.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E03
+http://flipex.pro:80/series/6296926/62956925925/8567.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E04
+http://flipex.pro:80/series/6296926/62956925925/8568.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E05
+http://flipex.pro:80/series/6296926/62956925925/8569.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E06
+http://flipex.pro:80/series/6296926/62956925925/8570.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E07
+http://flipex.pro:80/series/6296926/62956925925/8571.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E08
+http://flipex.pro:80/series/6296926/62956925925/8572.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E09
+http://flipex.pro:80/series/6296926/62956925925/8573.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E10
+http://flipex.pro:80/series/6296926/62956925925/8574.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E11
+http://flipex.pro:80/series/6296926/62956925925/8575.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E12
+http://flipex.pro:80/series/6296926/62956925925/8576.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E13
+http://flipex.pro:80/series/6296926/62956925925/8577.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E14
+http://flipex.pro:80/series/6296926/62956925925/8578.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E15
+http://flipex.pro:80/series/6296926/62956925925/8579.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E16
+http://flipex.pro:80/series/6296926/62956925925/8580.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E17
+http://flipex.pro:80/series/6296926/62956925925/8581.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E18
+http://flipex.pro:80/series/6296926/62956925925/8582.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E19
+http://flipex.pro:80/series/6296926/62956925925/8583.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E20
+http://flipex.pro:80/series/6296926/62956925925/8584.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E21
+http://flipex.pro:80/series/6296926/62956925925/8585.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S02 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S02 E22
+http://flipex.pro:80/series/6296926/62956925925/8586.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E01
+http://flipex.pro:80/series/6296926/62956925925/8587.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E02
+http://flipex.pro:80/series/6296926/62956925925/8588.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E03
+http://flipex.pro:80/series/6296926/62956925925/8589.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E04
+http://flipex.pro:80/series/6296926/62956925925/8590.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E05
+http://flipex.pro:80/series/6296926/62956925925/8591.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E06
+http://flipex.pro:80/series/6296926/62956925925/8592.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E07
+http://flipex.pro:80/series/6296926/62956925925/8593.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E08
+http://flipex.pro:80/series/6296926/62956925925/8594.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E09
+http://flipex.pro:80/series/6296926/62956925925/8595.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E10
+http://flipex.pro:80/series/6296926/62956925925/8596.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E11
+http://flipex.pro:80/series/6296926/62956925925/8597.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E12
+http://flipex.pro:80/series/6296926/62956925925/8598.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E13
+http://flipex.pro:80/series/6296926/62956925925/8599.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E14
+http://flipex.pro:80/series/6296926/62956925925/8600.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E15
+http://flipex.pro:80/series/6296926/62956925925/8601.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S03 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S03 E16
+http://flipex.pro:80/series/6296926/62956925925/8602.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E01
+http://flipex.pro:80/series/6296926/62956925925/8603.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E02
+http://flipex.pro:80/series/6296926/62956925925/8604.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E03
+http://flipex.pro:80/series/6296926/62956925925/8605.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E04
+http://flipex.pro:80/series/6296926/62956925925/8606.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E05
+http://flipex.pro:80/series/6296926/62956925925/8607.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E06
+http://flipex.pro:80/series/6296926/62956925925/8608.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E07
+http://flipex.pro:80/series/6296926/62956925925/8609.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E08
+http://flipex.pro:80/series/6296926/62956925925/8610.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E09
+http://flipex.pro:80/series/6296926/62956925925/8611.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E10
+http://flipex.pro:80/series/6296926/62956925925/8612.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E11
+http://flipex.pro:80/series/6296926/62956925925/8613.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E12
+http://flipex.pro:80/series/6296926/62956925925/8614.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E13
+http://flipex.pro:80/series/6296926/62956925925/8615.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E14
+http://flipex.pro:80/series/6296926/62956925925/8616.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E15
+http://flipex.pro:80/series/6296926/62956925925/8617.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E16
+http://flipex.pro:80/series/6296926/62956925925/8618.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E17
+http://flipex.pro:80/series/6296926/62956925925/8619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E18
+http://flipex.pro:80/series/6296926/62956925925/8620.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E19
+http://flipex.pro:80/series/6296926/62956925925/8621.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E20
+http://flipex.pro:80/series/6296926/62956925925/8622.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E21
+http://flipex.pro:80/series/6296926/62956925925/8623.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S04 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S04 E22
+http://flipex.pro:80/series/6296926/62956925925/8624.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E01
+http://flipex.pro:80/series/6296926/62956925925/69619.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E02" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E02
+http://flipex.pro:80/series/6296926/62956925925/8625.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E03" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E03
+http://flipex.pro:80/series/6296926/62956925925/8626.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E04
+http://flipex.pro:80/series/6296926/62956925925/8627.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E05" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E05
+http://flipex.pro:80/series/6296926/62956925925/8628.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E06" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E06
+http://flipex.pro:80/series/6296926/62956925925/8629.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E07" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E07
+http://flipex.pro:80/series/6296926/62956925925/8630.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E08" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E08
+http://flipex.pro:80/series/6296926/62956925925/8631.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E09" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E09
+http://flipex.pro:80/series/6296926/62956925925/8632.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E10" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E10
+http://flipex.pro:80/series/6296926/62956925925/8633.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E11" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E11
+http://flipex.pro:80/series/6296926/62956925925/8634.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E12" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E12
+http://flipex.pro:80/series/6296926/62956925925/8635.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E13" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E13
+http://flipex.pro:80/series/6296926/62956925925/8636.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E14" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E14
+http://flipex.pro:80/series/6296926/62956925925/8637.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E15" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E15
+http://flipex.pro:80/series/6296926/62956925925/8638.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E16" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E16
+http://flipex.pro:80/series/6296926/62956925925/8639.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E17" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E17
+http://flipex.pro:80/series/6296926/62956925925/8640.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E18" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E18
+http://flipex.pro:80/series/6296926/62956925925/8641.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E19" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E19
+http://flipex.pro:80/series/6296926/62956925925/8642.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E20" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E20
+http://flipex.pro:80/series/6296926/62956925925/8643.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E21" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E21
+http://flipex.pro:80/series/6296926/62956925925/8644.mp4
+#EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S05 E22" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S05 E22
