@@ -1,102 +1,103 @@
 #EXTM3U
-#EXTINF:-1, tvg-id="Gate" group-title="CAMERAS",Gate
+#EXTINF:-1 tvg-id="Gate" group-title="CAMERAS",Gate
 rtsp://192.168.2.108:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
-#EXTINF:-1, tvg-id="Rail" group-title="CAMERAS",Rail
+#EXTINF:-1 tvg-id="Rail" group-title="CAMERAS",Rail
 rtsp://192.168.2.114:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
-#EXTINF:-1, tvg-id="Entrance" group-title="CAMERAS",Entrance
+#EXTINF:-1 tvg-id="Entrance" group-title="CAMERAS",Entrance
 rtsp://192.168.2.107:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
-#EXTINF:-1, tvg-id="Backyard" group-title="CAMERAS",Backyard
+#EXTINF:-1 tvg-id="Backyard" group-title="CAMERAS",Backyard
 rtsp://192.168.2.71:554/user=cleiton20205_password=UmAbkNGz_channel=0_stream=1&onvif=0.sdp
-#EXTINF:-1, tvg-id="Warehouse" group-title="CAMERAS",Warehouse
+#EXTINF:-1 tvg-id="Warehouse" group-title="CAMERAS",Warehouse
 rtsp://192.168.2.109:554/user=admin_password=tlJwpbo6_channel=0_stream=1&onvif=0.sdp
-#EXTINF:-1, tvg-id="+SBT Novelas" tvg-logo="https://thumbs4.imagebam.com/c8/9d/19/ME1B7K97_t.png" group-title="ABERTOS",+Novelas
+#EXTINF:-1 tvg-id="+SBT Novelas" tvg-logo="https://thumbs4.imagebam.com/c8/9d/19/ME1B7K97_t.png" group-title="ABERTOS",+Novelas
 http://172.110.219.252:80/85836530/57158922/127320.m3u8
-#EXTINF:-1, tvg-id="+SBT Show do Milhão" tvg-logo="https://images4.imagebam.com/a2/8c/6c/ME1B7KPV_o.png" group-title="ABERTOS",+Raiz
+#EXTINF:-1 tvg-id="+SBT Show do Milhão" tvg-logo="https://images4.imagebam.com/a2/8c/6c/ME1B7KPV_o.png" group-title="ABERTOS",+Raiz
 https://d38s7rrdbnh4oy.cloudfront.net/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Saudades/index.m3u8
-#EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT SP HD
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT SP HD
 https://aovivo.maissbt.com/channel_720.m3u8
-#EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT RJ HD
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT RJ HD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/7416
-#EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT RS HD
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT RS HD
 http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/91907
-#EXTINF:-1, tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT Brasilia HD
+#EXTINF:-1 tvg-id="SBT" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="ABERTOS",SBT Brasilia HD
 http://flipex.pro:80/kWgW4mCC/FJ2tk3/52567
-#EXTINF:-1, tvg-id="SBT NEWS HD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/SBT_News_Logo_Nova_6912e22a21.jpg" group-title="ABERTOS",SBT News 720p
+#EXTINF:-1 tvg-id="SBT NEWS HD" tvg-logo="https://sbt-news-assets-prod.s3.sa-east-1.amazonaws.com/SBT_News_Logo_Nova_6912e22a21.jpg" group-title="ABERTOS",SBT News 720p
 https://sbtnews.maissbt.com/3.m3u8
-#EXTINF:-1, tvg-id="A Levada da Breca" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="SERIES",A Levada da Breca
+#EXTINF:-1 tvg-id="A Levada da Breca" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="SERIES",A Levada da Breca
 http://46.151.196.223:14091
-#EXTINF:-1, tvg-id="TV Trapalhões" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="SERIES",Trapalhões
+#EXTINF:-1 tvg-id="TV Trapalhões" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="SERIES",Trapalhões
 http://46.151.196.223:14989
-#EXTINF:-1, tvg-id="DBZ" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="SERIES",DBZ
+#EXTINF:-1 tvg-id="DBZ" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="SERIES",DBZ
 http://46.151.196.223:14809
-#EXTINF:-1, tvg-id="Eu, a Patroa e as Crianças" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="SERIES",Eu, a Patroa e as Crianças
+#EXTINF:-1 tvg-id="Eu, a Patroa e as Crianças" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-0-2048x2048.png" group-title="SERIES",Eu, a Patroa e as Crianças
 http://46.151.196.223:14993
-#EXTINF:-1, tvg-id="PLAY TV" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/07/PlayTV-logo-pequeno.png" group-title="ABERTOS",Play TV 720p
+#EXTINF:-1 tvg-id="PLAY TV" tvg-logo="https://playtv.com.br/site/wp-content/uploads/2023/07/PlayTV-logo-pequeno.png" group-title="ABERTOS",Play TV 720p
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
-#EXTINF:-1, tvg-id="Globo SP_local" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",Globo SP
+#EXTINF:-1 tvg-id="Globo SP_local" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",Globo SP
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/7410
-#EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="http://p6.vc/VCK" group-title="ABERTOS",Globo SP² http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1
+#EXTINF:-1 tvg-id="GLBRJHD" tvg-name="GLOBO" tvg-logo="http://p6.vc/VCK" group-title="ABERTOS",Globo SP²
+http://gerenciar.vivatele.com:80/viva_padrao/viva2384/1
 #EXTINF:-1, tvg-id="GLOBO_SÃO_PAULO" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",Globo RJ
 http://novo.livetv2021.online:8080/W4Tq9BRqjx/fKvgRJKB8v/110
-#EXTINF:-1, tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="ABERTOS",TV Bahia 720p
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/0Pb8NOA.png" group-title="ABERTOS",TV Bahia 720p
 http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
-#EXTINF:-1, tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",Rede Amazônica HD
+#EXTINF:-1 tvg-id="GLOBO SÃO PAULO" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="ABERTOS",Rede Amazônica HD
 http://novo.livetv2021.online:8080/W4Tq9BRqjx/fKvgRJKB8v/201
-#EXTINF:-1, tvg-id="RECORD_HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record RJ SD
+#EXTINF:-1 tvg-id="RECORD_HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record RJ SD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/13
-#EXTINF:-1, tvg-id="RECORD_HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record SP 720p
+#EXTINF:-1 tvg-id="RECORD_HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record SP 720p
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/227
 #EXTINF:-1 tvg-id="Record SP_local" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/record-tv-logo-5.png" group-title="ABERTOS",Record SP HD
 http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/12888.m3u8
 #EXTINF:-1 tvg-id="Band SP_local" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",BAND RJ SD
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/3
-#EXTINF:-1, tvg-id="Band HD" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",Band SP HD
+#EXTINF:-1 tvg-id="Band HD" tvg-logo="https://i.imgur.com/YgHvz9I.png" group-title="ABERTOS",Band SP HD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/131
-#EXTINF:-1, tvg-id="REDE TV! HD" tvg-logo="http://p6.vc/AGY" group-title="ABERTOS",REDE TV
+#EXTINF:-1 tvg-id="REDE TV! HD" tvg-logo="http://p6.vc/AGY" group-title="ABERTOS",REDE TV
 http://gerenciar.vivatele.com:80/viva_padrao/viva2384/16
-#EXTINF:-1, tvg-id="CULTURA HD" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="ABERTOS",TV Cultura SD
+#EXTINF:-1 tvg-id="CULTURA HD" tvg-logo="https://i.imgur.com/xL9QvHp.png" group-title="ABERTOS",TV Cultura SD
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
-#EXTINF:-1, tvg-id="Rede Brasil HD" tvg-logo="https://rbtv.com.br/upload_arquivos/2020/03/2020030618426001585009374.png" group-title="ABERTOS",Rede Brasil HD
+#EXTINF:-1 tvg-id="Rede Brasil HD" tvg-logo="https://rbtv.com.br/upload_arquivos/2020/03/2020030618426001585009374.png" group-title="ABERTOS",Rede Brasil HD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/25.m3u8
-#EXTINF:-1, tvg-id="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/960px-TV_Brasil_logo_2023.svg.png" group-title="ABERTOS",TV Brasil HD
+#EXTINF:-1 tvg-id="TV BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/TV_Brasil_logo_2023.svg/960px-TV_Brasil_logo_2023.svg.png" group-title="ABERTOS",TV Brasil HD
 https://tvbrasil-stream.ebc.com.br/index.m3u8
-#EXTINF:-1, tvg-id="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png" group-title="ABERTOS",RIT HD
+#EXTINF:-1 tvg-id="RIT" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/b/b6/LOGO_RIT_2022_colorido.png" group-title="ABERTOS",RIT HD
 https://acesso.ecast.site:3648/live/ritlive.m3u8
-#EXTINF:-1, tvg-id="CNN BRASIL" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-logo.jpg" group-title="ABERTOS",CNN HD
+#EXTINF:-1 tvg-id="CNN BRASIL" tvg-logo="https://1000logos.net/wp-content/uploads/2016/11/CNN-logo.jpg" group-title="ABERTOS",CNN HD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/902.m3u8
-#EXTINF:-1, tvg-id="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-2048x2048.png" group-title="ESPORTES",ESPN 1
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="https://logodownload.org/wp-content/uploads/2015/05/espn-logo-0-2048x2048.png" group-title="ESPORTES",ESPN 1
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/68.m3u8
-#EXTINF:-1, tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/lMF2raO.png" group-title="ESPORTES",ESPN 2
+#EXTINF:-1 tvg-id="ESPN 2" tvg-logo="https://i.imgur.com/lMF2raO.png" group-title="ESPORTES",ESPN 2
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/69.m3u8
-#EXTINF:-1, tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/gYaeIDq.png" group-title="ESPORTES",ESPN 3
+#EXTINF:-1 tvg-id="ESPN 3" tvg-logo="https://i.imgur.com/gYaeIDq.png" group-title="ESPORTES",ESPN 3
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/70.m3u8
-#EXTINF:-1, tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/um0JAiw.png" group-title="ESPORTES",ESPN 4
+#EXTINF:-1 tvg-id="ESPN 4" tvg-logo="https://i.imgur.com/um0JAiw.png" group-title="ESPORTES",ESPN 4
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/71.m3u8
-#EXTINF:-1, tvg-id="ESPN 5" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="ESPORTES",ESPN 5
+#EXTINF:-1 tvg-id="ESPN 5" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-5-logo-png_seeklogo-522715.png" group-title="ESPORTES",ESPN 5
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/72.m3u8
-#EXTINF:-1, tvg-id="ESPN 6" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="ESPORTES",ESPN 6
+#EXTINF:-1 tvg-id="ESPN 6" tvg-logo="https://images.seeklogo.com/logo-png/52/1/espn-6-logo-png_seeklogo-522717.png" group-title="ESPORTES",ESPN 6
 http://hls1.sua.tv/live/espnextrafhd/s.m3u8
-#EXTINF:-1, tvg-id="CazéTV 1" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="ESPORTES",CazéTV 1
+#EXTINF:-1 tvg-id="CazéTV 1" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="ESPORTES",CazéTV 1
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/1048147.m3u8
-#EXTINF:-1, tvg-id="CazéTV 2" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="ESPORTES",CazéTV 2
+#EXTINF:-1 tvg-id="CazéTV 2" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="ESPORTES",CazéTV 2
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/1048148.m3u8
-#EXTINF:-1, tvg-id="CazéTV 3" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="ESPORTES",CazéTV 3
+#EXTINF:-1 tvg-id="CazéTV 3" tvg-logo="https://images.seeklogo.com/logo-png/61/1/cazetv-logo-png_seeklogo-619708.png" group-title="ESPORTES",CazéTV 3
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/1048149.m3u8
-#EXTINF:-1, tvg-id="MULTISHOW HD" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="FECHADOS",Multishow HD
+#EXTINF:-1 tvg-id="MULTISHOW HD" tvg-name="Multishow HD" tvg-logo="https://i.imgur.com/eh1ev0T.png" group-title="FECHADOS",Multishow HD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/903.m3u8
-#EXTINF:-1, tvg-id="DISCOVERY HD" tvg-name="Discovery HD" tvg-logo="https://i.imgur.com/vJbNyH6.png" group-title="FECHADOS",Discovery HD
+#EXTINF:-1 tvg-id="DISCOVERY HD" tvg-name="Discovery HD" tvg-logo="https://i.imgur.com/vJbNyH6.png" group-title="FECHADOS",Discovery HD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/6618.m3u8
-#EXTINF:-1, tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT SD
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT SD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT SD
 http://hplay.tv:80/tvlitoralrn@hplay/555ss445/180.m3u8
-#EXTINF:-1, tvg-id="TNT HD" tvg-name="TNT 720p" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT 720p
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT 720p" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT 720p
 http://s2.micineovs.com/TNT/tracks-v1a1/mono.m3u8?token=16FOTt9Ae2m8
-#EXTINF:-1, tvg-id="TNT HD" tvg-name="TNT 720p²" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT 720p²
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT 720p²" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT 720p²
 http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/594019.m3u8
-#EXTINF:-1, tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT FHD
+#EXTINF:-1 tvg-id="TNT HD" tvg-name="TNT FHD" tvg-logo="https://i.imgur.com/Fz8mARZ.png" group-title="FECHADOS",TNT FHD
 http://novo.livetv2021.online:8080/W4Tq9BRqjx/fKvgRJKB8v/297
-#EXTINF:-1, tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FECHADOS",Space HD
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FECHADOS",Space HD
 http://govfederal.org:80/hr52kzjoes/iyedj3b1vt/9101.m3u8
-#EXTINF:-1, tvg-id="Space HD" tvg-name="SPACE HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FECHADOS",SPACE HD¹
+#EXTINF:-1 tvg-id="Space HD" tvg-name="SPACE HD¹" tvg-logo="https://logodownload.org/wp-content/uploads/2018/11/canal-space-logo.png" group-title="FECHADOS",SPACE HD¹
 http://46.151.196.223:14607
 #EXTINF:-1 tvg-id="" tvg-name="Sobrenatural (Supernatural) S01 E01" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ovFzkkKknAo2SbM2DfOabxRvzmy.jpg" group-title="Prime Vídeo",Sobrenatural (Supernatural) S01 E01
 http://flipex.pro:80/series/6296926/62956925925/8543.mp4
